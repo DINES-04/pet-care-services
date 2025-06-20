@@ -21,7 +21,30 @@ You can view the website live by opening the `index.html` file in your web brows
 - **Images**: Custom images are used throughout the site to enhance the visual experience.
 
 ## Folder Structure
-├── index.html # Main HTML file ├── style.css # CSS file for styling the website ├── script.js # JavaScript file for interactivity ├── /imagens # Folder containing images │ ├── icone-PetHaven.png │ ├── logo.jpg │ ├── brush.jpg │ ├── toy.webp │ ├── snake.jpg │ ├── feeder.jpg │ └── ... (other images) └── /fonts # (optional) folder for custom fonts if any
+
+├── index.html # Main HTML file 
+
+├── style.css # CSS file for styling the website 
+
+├── script.js # JavaScript file for interactivity 
+
+├── /imagens # Folder containing images 
+
+├── icone-PetHaven.png 
+
+├── logo.jpg 
+
+├── brush.jpg 
+
+├── toy.webp  
+
+├── snake.jpg  
+
+├── feeder.jpg 
+
+│└── ... (other images) 
+
+│└── /fonts # (optional) folder for custom fonts if any
 
 
 ## How to Run the Project
