@@ -3,6 +3,9 @@
 ## Overview
 Pet Haven is a comprehensive platform for pet owners, offering a wide range of pet care services and products. From healthcare to grooming, we ensure your pet’s well-being and happiness. This website showcases the services, products, and testimonials that build trust between pet owners and our brand.
 
+## Preview
+![image](https://github.com/user-attachments/assets/d07b8b1b-ab61-4b7e-b8f3-edb0d42256af)
+
 ## Features
 - **Homepage:** Introduction to Pet Haven and its services.
 - **Services Section:** Details about various services including Healthcare, Grooming, Exercise, and Training.
